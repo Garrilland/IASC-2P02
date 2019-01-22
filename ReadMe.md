@@ -1,5 +1,2 @@
 ## IASC 2P02 | Gary Gullage
-
-Hello world!
-
-Hello there.
+There is nothing here yet but oh lawd there's gonna be some stuff
