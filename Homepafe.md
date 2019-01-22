@@ -1,5 +1,5 @@
 ## IASC 2P02 | Gary Gullage
-There is nothing here yet but oh lawd there's gonna be some stuff
+There is nothing here yet but oh lawd there's gonna be some stuff, so for now this is Spider-Man with a cone.
 
 ![](images/sVo50OUfV05jm2rbbgSrVqfSw1KmEmD8EO48dmV5wDA.png)
 
