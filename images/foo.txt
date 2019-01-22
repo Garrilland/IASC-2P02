@@ -1,7 +1,2 @@
-# IASC-2P02 | Gary Gullage
+This is a placeholder because you can't make an empty folder, that's just how mafia works
 
-## About Me
-
-Hello World!
-
-![](https://github.com/Garrilland/IASC-2P02/blob/master/images/sVo50OUfV05jm2rbbgSrVqfSw1KmEmD8EO48dmV5wDA.png?raw=true)
