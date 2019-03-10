@@ -2,4 +2,4 @@
 
 Hello there! My name is Gary Gullage and this is my GitHub page.
 
-Link to Blog Post: 
+[Link to Blog Post](IASC-2P02/blog.md)
