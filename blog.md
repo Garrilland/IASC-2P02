@@ -7,6 +7,8 @@ The invention of computers revolutionized the human race as a whole, and it espe
 So in conclusion, humanists need to do more to separate the fields of humanities from the fields of science, because humanities is not a science, it stands on its own as an independent form of research around human culture, philosophy, etc. and should be seen as such, and the first step towards this change is to remove externally-produced, quantitative data from the field, have all of it abolished, and move to interpretive data that is unique to each humanist to not only expand the field with many new findings from people discovering new things rather than restating old finds, and separate humanities as a whole from the link it’s had with sciences since the invention of computers.
 
 Works Cited:
+
 Davidson, Cathy N. “Humanities 2.0: Promise, Perils, Predictions.” PMLA, vol. 123, no. 3, 2008, pp. 707–717. JSTOR, www.jstor.org/stable/25501892.
+
 Steven Ramsay. Reading Machines: Toward an Algorithmic Criticism. Champaign IL: University of Illinois Press. 2011. ISBN 978-0-252-03641-5 (Cloth) 978-0-252-07820-0 (Paper).
 
