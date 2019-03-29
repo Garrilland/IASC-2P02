@@ -9,4 +9,4 @@ Hello there! My name is Gary Gullage and this is my GitHub page.
 
 ## Solo Presentation
 
-[Title of Presentation](reveal/index.html)
+[The Pokéwalker](reveal/index.html)
