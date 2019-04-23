@@ -15,11 +15,18 @@ The main complaints that I received from my instructor feedback, was that I didn
 [Link to revised presentation](reveal/index2.html)
 
 
-## Academic Blog
+## Collaborative Project
+
+For my Collaborative Presentation project, Shavon, Arijit, and I all researched the humanities tool known as Scalar, a program for making easy digital scholarship books, that enables the user to assemble media from various sources all into their project with ease, such as creating annotated media. My role in the presentation was to go into the tool and build something with it, and my findings basically just reinforced what we read from the description the website gave us of Scalar, it was easy to put together various sources into one presentation using the tools that Scalar provide to the user.
+
+My approach to collaborative scholarship for this project was pretty simple for this project in particular, we all met up shortly after we were given the assignment, we talked about the project and the tool we chose to research, we all assigned each other a task to accomplish, and we just kept each other up to date with the project and then presented. The thing that I like most about collaboration is knowing the weight of an assignment isn't entirely on my shoulder, knowing that I have people around me not only helping me reach the same goal, but knowing that I don't need to do the whole assignment by myself is incredibly freeing and relieves a lot of the stress of a project. Rather than having to do all the research  about what scalar is, who made it, what it's for, and the theoretical discussion behind Scalar, I only had to focus on research using the tool, [which you can see here](https://i.imgur.com/4KFgbY8.png). So we all met up, [started a Facebook Messenger discussion to stay in touch](https://i.imgur.com/NIPfcbB.png), and we worked on our respective parts. Having multiple people to bounce ideas off of is very helpful in any academic environment, not just digital humanities, we could always ask the other members of the group if they could read over our slides to [provide feedback](https://i.imgur.com/id9zGVf.png), and overall I believe that group projects end up better because of it, for the same reason that a project is always better after peer reviewed feedback is provided, you can ask others for advice and review, and apply it, to provide stronger work.
+
+
+### Academic Blog
 
 [Link to Blog Post](blog.md)
 
 
-## Research Presentation
+### Research Presentation (Old)
 
 [The Pokéwalker](reveal/index.html)
